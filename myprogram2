@@ -1,0 +1,7 @@
+def even_odd_num(num):
+if num%2==0:
+return even
+elif num%3==0:
+return odd
+else:
+return ('None of them')
